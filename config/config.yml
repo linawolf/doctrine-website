@@ -10,7 +10,7 @@ parameters:
 
     doctrine.website.title: Doctrine
     doctrine.website.subtitle: PHP Open Source Project
-    doctrine.website.url: https://lcl.doctrine-project.org
+    doctrine.website.url: https://doctrine-website.ddev.site
     doctrine.website.assets_url: https://www.doctrine-project.org
     doctrine.website.keywords: [php, mysql, orm, dbal, database, mongodb, odm, annotations, migrations, cache, couchdb]
     doctrine.website.description: >

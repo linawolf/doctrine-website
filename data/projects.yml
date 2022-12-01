@@ -34,6 +34,7 @@ parameters:
         - repositoryName: reflection
         - repositoryName: rst-parser
         - repositoryName: skeleton-mapper
+        - repositoryName: typo3
         -
             repositoryName: DoctrineBundle
             integration: true
